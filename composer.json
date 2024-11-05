@@ -1,0 +1,14 @@
+{
+    "name": "munja/vbis",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "patrik"
+        }
+    ],
+    "require": {}
+}
